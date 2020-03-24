@@ -1,0 +1,16 @@
+Administrator
+admin
+administrator
+guest
+admin
+admin$
+admins
+user
+dasheng
+test
+root
+webadmin
+wlozz
+SQLDebugger
+HelpAssistant
+ASPNET
