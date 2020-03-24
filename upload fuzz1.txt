@@ -1,0 +1,21 @@
+.jpg
+.png
+.gif
+.php
+.phtml
+.PHP
+.Php
+.pHp
+.phP
+.php2
+.php3
+.php4
+.php5
+.php6
+.php7
+.pphphphpp
+.htaccess
+.php 
+.php::$DATA
+.php.
+.php. .
