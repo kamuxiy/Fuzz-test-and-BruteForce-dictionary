@@ -4,3 +4,6 @@
 # SQL 注入关键字fuzz
 # 后台爆破字典
 # 会不定期更新
+# 如果有更好更全的字典,欢迎联系我进行分享
+QQ: 320284563
+# if you have some better dicts,please contact me and share it together!
